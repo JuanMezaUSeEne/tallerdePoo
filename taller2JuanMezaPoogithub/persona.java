@@ -3,9 +3,8 @@ package taller2JuanMezaPoogithub;
 public class persona {
 	private String nombre;
 	private choripan choripanes;
-	public persona(String nombre, choripan choripanes) {
+	public persona(String nombre) {
 		this.nombre = nombre;
-		this.choripanes = choripanes;
 	}
 	public String getNombre() {
 		return nombre;
