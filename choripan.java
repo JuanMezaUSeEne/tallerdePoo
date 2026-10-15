@@ -1,4 +1,4 @@
-package taller2JuanMezaPoo;
+package taller2JuanMezaPoogithub;
 
 public class choripan {
 	private String fecha;
